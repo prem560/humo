@@ -1,0 +1,37 @@
+
+.youtube-home {
+
+    background-color: brown;
+    color: azure;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+.TRACK {
+background: rgb(93, 93, 235);
+height: 50px;
+border-radius: 15%;
+border-color: aqua;
+cursor: pointer;
+ 
+}
+.youtube-home:hover {
+background-color: rgb(147, 141, 240);
+
+}
+.TRACK:hover {
+background-color: bisque;
+
+}
+.TRACK:active{
+background-color: aliceblue;
+}
+.youtube-home:active{
+    background-color: rgb(61, 125, 182);
+}
+.humo{
+    background-color: rgb(102, 243, 243);
+    height: 50px;
+    width: 200px;
+    background-repeat: inherit;
+}
