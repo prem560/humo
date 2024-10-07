@@ -41,6 +41,12 @@ a.bibo,a:hover{
     background: #1b9bff;
     transition: .5s;
 }
+ul{
+    position: fixed;
+    width: 100%;
+    height: 85px;
+    background: #2c3e50;
+}
 .youtube-home {
 
     background-color: brown;
