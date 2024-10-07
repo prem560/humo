@@ -71,9 +71,4 @@ background-color: aliceblue;
 .youtube-home:active{
     background-color: rgb(61, 125, 182);
 }
-.humo{
-    background-color: rgb(102, 243, 243);
-    height: 50px;
-    width: 200px;
-    background-repeat: inherit;
-}
+
