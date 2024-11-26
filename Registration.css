@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('lock.jpg') no-repeat center center fixed;
+    background:  url(lock.jpg) no-repeat;
     background-size: cover;
 }
 
